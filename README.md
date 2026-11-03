@@ -1,5 +1,9 @@
 # Adare Restaurant
 
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange)
+![CSS](https://img.shields.io/badge/CSS-Frontend-brightgreen)
+
+
 A responsive restaurant website for Adare Restaurant in County Limerick, Ireland. The site introduces the restaurant, shares its seasonal menu, and helps visitors find the location or enquire about a reservation.
 
 ## Pages
